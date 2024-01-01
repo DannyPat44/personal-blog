@@ -15,8 +15,10 @@ params:
   defaultTheme: light
   env: production
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Tit for Tat
+    Content: |+
+      Welcome to my stream of consciousness! 👋 Here you'll find my thoughts on building and scaling products that [don't just slice the pie but expand it for everyone](https://en.wikipedia.org/wiki/Tit_for_tat#Implications). 
+      I also like to ramble about security, reliability, developer productivity and building autonomous teams.
 
   socialIcons:
     - name: "twitter"
