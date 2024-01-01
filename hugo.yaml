@@ -1,0 +1,28 @@
+baseURL: 'https://titfortat.blog/'
+title: tit for tat
+paginate: 5
+theme: PaperMod
+
+
+menu:
+  main:
+    - identifier: about-me
+      name: about me
+      url: /about/
+      weight: 10
+
+params:
+  defaultTheme: light
+  env: production
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/dannypat44"
+    - name: "github"
+      url: "https://github.com/DannyPat44"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/danny-patterson-55735a98"
+
