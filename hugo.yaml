@@ -14,9 +14,6 @@ menu:
 params:
   defaultTheme: light
   env: production
-  ShowBreadCrumbs: true
-  ShowPostNavLinks: true
-  ShowCodeCopyButtons: true
   homeInfoParams:
     Title: Tit for Tat
     Content: |+
