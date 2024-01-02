@@ -11,7 +11,7 @@ menu:
       weight: 10
 
 params:
-  defaultTheme: light
+  defaultTheme: dark
   env: production
   homeInfoParams:
     Title: Tit for Tat
