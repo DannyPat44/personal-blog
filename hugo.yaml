@@ -1,13 +1,12 @@
 baseURL: 'https://titfortat.blog/'
-title: tit for tat
+title: Tit for Tat
 paginate: 5
 theme: PaperMod
 
-
 menu:
   main:
-    - identifier: about-me
-      name: about me
+    - identifier: about
+      name: about
       url: /about/
       weight: 10
 
